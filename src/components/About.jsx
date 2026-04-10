@@ -85,7 +85,7 @@ const About = () => {
           <div className="md:w-1/2">
             <div className="rounded-3xl p-10 bg-dark-400/70 backdrop-blur-md shadow-2xl border border-purple-500/10">
               <p className="text-gray-200 mb-6 text-lg leading-relaxed">
-                I'm Bhupendra Patil, a full-stack developer dedicated to building high-quality, interactive web experiences. I focus on clean, maintainable code and enjoy tackling challenging problems with innovative solutions.
+                I'm Nilesh Dhankar, a full-stack developer dedicated to building high-quality, interactive web experiences. I focus on clean, maintainable code and enjoy tackling challenging problems with innovative solutions.
               </p>
               <p className="text-gray-300 mb-12 text-lg leading-relaxed">
                 Beyond coding, I constantly explore new technologies, experiment with creative projects, and aim to elevate my craft. My goal is to deliver solutions that are both functional and visually captivating.

@@ -28,21 +28,21 @@ const skills = [
     title: "Database Management",
     description:
       "Designing and optimizing databases for performance and scalability.",
-    tags: ["MongoDB", "PostgreSQL", "MySQL"],
+    tags: ["MongoDB", "MySQL"],
   },
   {
     icon: FaCloud,
     title: "Cloud & DevOps",
     description:
       "Deploying and managing cloud applications and infrastructure.",
-    tags: ["AWS", "Docker", "CI/CD"],
+    tags: ["Vercel", "Render"],
   },
   {
     icon: FaTools,
     title: "Tools & Technologies",
     description:
       "Using essential tools to improve development efficiency and workflow.",
-    tags: ["Git", "GitHub", "Figma", "Webpack"],
+    tags: ["Git", "GitHub", "Postman", "Thunder Client"],
   },
 ];
 

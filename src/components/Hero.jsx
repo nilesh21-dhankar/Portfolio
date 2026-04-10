@@ -81,7 +81,7 @@ const Hero = () => {
           viewport={{ once: true }}
         >
           <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-4 text-white">
-            Hi, I'm <span className="text-purple">Bhupendra Patil</span>
+            Hi, I'm <span className="text-purple">Nilesh Dhankar</span>
           </h1>
 
           {/* ⭐ TYPING EFFECT WITH WHITE COLOR ⭐ */}

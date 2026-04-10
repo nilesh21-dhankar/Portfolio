@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { FaEnvelope, FaGithub, FaInstagram, FaMapMarkerAlt, FaPhone } from "react-icons/fa";
-import { FaLinkedin, FaXTwitter } from "react-icons/fa6";
+import { FaLinkedin,  } from "react-icons/fa6";
 
 const Contact = () => {
   return (
@@ -74,7 +74,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-2">Location</h3>
-                <p className="text-gray-400">Shirpur, Maharashtra, India</p>
+                <p className="text-gray-400">Durg,Chattishgarh, India</p>
               </div>
             </div>
 
@@ -84,7 +84,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-2">Email</h3>
-                <p className="text-gray-400">bhupendrapatil1232@gmail.com</p>
+                <p className="text-gray-400">dhankarnilesh2006@gmail.com</p>
               </div>
             </div>
 
@@ -94,7 +94,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-2">Phone</h3>
-                <p className="text-gray-400">+91 8378097953</p>
+                <p className="text-gray-400">+91 9302206447</p>
               </div>
             </div>
 
@@ -102,7 +102,7 @@ const Contact = () => {
               <h3 className="text-lg font-semibold mb-4">Follow Me</h3>
               <div className="flex space-x-4">
                 <a
-                  href="https://github.com/patil-bhupendra"
+                  href="https://github.com/nilesh21-dhankar"
                   target="_blank"
                   className="w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center hover:bg-black hover:text-white transition"
                 >
@@ -110,23 +110,16 @@ const Contact = () => {
                 </a>
 
                 <a
-                  href="https://www.linkedin.com/in/patil-bhupendra"
+                  href="https://www.linkedin.com/in/nilesh-dhankar-5b38a0360/"
                   target="_blank"
                   className="w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-white hover:bg-black hover:text-white transition"
                 >
                   <FaLinkedin />
                 </a>
 
-                <a
-                  href="https://x.com/BhupendraR97314"
-                  target="_blank"
-                  className="w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-white hover:bg-black hover:text-white transition"
-                >
-                  <FaXTwitter />
-                </a>
 
                 <a
-                  href="https://www.instagram.com/_.bhupendra.rajput._/"
+                  href="https://www.instagram.com/nilesh_dhankar/"
                   target="_blank"
                   className="w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-white hover:bg-black hover:text-white transition"
                 >

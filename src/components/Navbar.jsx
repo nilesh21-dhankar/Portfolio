@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { FaBars } from "react-icons/fa";
 import { FaXmark } from "react-icons/fa6";
-import resumePDF from "../assets/BhupendraPatil_Resume.pdf";
+import resumePDF from "../assets/Nilesh Resume .pdf";
 
 /* Framer motion variants */
 const navVariants = {
@@ -136,10 +136,10 @@ const Navbar = () => {
                   className="flex items-center gap-2 select-none"
                 >
                   <span className="text-2xl md:text-3xl font-bold text-white">
-                    Bhupendra
+                    Nilesh
                   </span>
                   <span className="text-purple font-bold md:text-2xl">
-                    Patil
+                    Dhankar
                   </span>
                   <span
                     className="w-3 h-3 rounded-full block"
@@ -221,8 +221,8 @@ const Navbar = () => {
             >
               <div className="flex items-center justify-between mb-6">
                 <div className="flex items-center gap-3">
-                  <div className="text-xl font-bold text-white">Bhupendra</div>
-                  <div className="text-purple font-bold">Patil</div>
+                  <div className="text-xl font-bold text-white">Nilesh</div>
+                  <div className="text-purple font-bold">Dhankar</div>
                 </div>
                 <button
                   onClick={() => setShowMenu(false)}

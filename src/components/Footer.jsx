@@ -52,7 +52,7 @@ const Footer = () => {
           <h3 className="text-xl font-semibold text-white">Connect</h3>
           <div className="flex items-center gap-5 text-2xl">
             <a
-              href="https://github.com/patil-bhupendra"
+              href="https://github.com/nilesh21-dhankar"
               target="_blank"
               className="hover:text-white transition"
             >
@@ -60,7 +60,7 @@ const Footer = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/patil-bhupendra"
+              href="https://www.linkedin.com/in/nilesh-dhankar-5b38a0360/"
               target="_blank"
               className="hover:text-white transition"
             >
@@ -68,7 +68,7 @@ const Footer = () => {
             </a>
 
             <a
-              href="mailto:bhupendrarajput1232@gmail.com"
+              href="mailto:dhankarnilesh2006@gmail.com"
               className="hover:text-white transition"
             >
               <FaEnvelope />
@@ -83,7 +83,7 @@ const Footer = () => {
         whileInView={{ opacity: 1 }}
         className="text-center text-gray-500 text-sm mt-10"
       >
-        © 2025 Bhupendra Patil. All Rights Reserved.
+        © 2026 Nilesh Dhankar. All Rights Reserved.
       </motion.p>
 
       {/* BACK TO TOP */}

@@ -6,31 +6,31 @@ import ProjectCard from "./ProjectCard";
 // Project Data (can be moved to /src/data/projects.js if you want)
 const projects = [
   {
-    title: "Stock Trading Platform",
+    title: "Hospital Management System",
     description:
-      "A full-stack MERN virtual trading platform with orders, funds, watchlist, and charts.",
-    image: "/stock.png",
-    tech: ["React", "Node.js", "MongoDB", "Tailwind", "Redux"],
-    demo: "https://stock-trading-platform-puce.vercel.app",
-    github: "https://github.com/bhupendrapatil123/Stock-Trading-Platform",
+      "A web-based system to manage patient records, appointments, and hospital operations efficiently.Includes admin dashboard, patient registration, and doctor management features.",
+    image: "/hospital.png",
+    tech: ["React", "Node.js", "MongoDB", "Express", "Restfull API"],
+    demo: "https://hospital-management-system-plum-mu.vercel.app/",
+    github: "https://github.com/nilesh21-dhankar/Hospital_Management_System",
   },
   {
-    title: "Bookstore Web App",
+    title: "Job Portral",
     description:
-      "MERN bookstore app with authentication, cart, checkout, and admin dashboard.",
-    image: "/bookstore.png",
-    tech: ["React", "Express", "MongoDB", "JWT", "Redux"],
-    demo: "https://book-store-camp.vercel.app/",
-    github: "https://github.com/bhupendrapatil123/bookStoreApp",
+      "A platform where users can search and apply for jobs while recruiters can post job listings.Includes authentication, job filtering, and application tracking system.",
+    image: "/job.png",
+    tech: ["React", "Express", "MongoDB", "JWT", "Node.js"],
+    demo: "https://job-portral-three.vercel.app",
+    github: "https://github.com/nilesh21-dhankar/JOB-PORTRAL",
   },
   {
-    title: "Wanderlust",
+    title: "ZOMOTO",
     description:
-      "Travel listing website inspired by Airbnb with full CRUD and authentication.",
-    image: "/wanderlust.png",
-    tech: ["HTML", "CSS", "Node.js", "Express", "MongoDB"],
-    demo: "https://wanderlust-hub.vercel.app/listings",
-    github: "https://github.com/bhupendrapatil123/Wanderlust-App",
+      "An online system for browsing restaurants and booking tables in advance.Includes restaurant listing, booking management, and user-friendly interface.",
+    image: "/zomoto.png",
+    tech: ["HTML", "CSS", "Node.js", "Express", "MongoDB", "React.js"],
+    demo: "https://zomoto-app-psi.vercel.app/",
+    github: "https://github.com/nilesh21-dhankar/ZOMOTO",
   },
 ];
 
@@ -71,7 +71,7 @@ const Projects = () => {
         {/* View More Button */}
         <div className="text-center mt-12">
           <a
-            href="https://github.com/patil-bhupendra?tab=repositories"
+            href="https://github.com/nilesh21-dhankar?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 border border-purple rounded-lg font-medium hover:bg-purple/20 transition duration-300 text-purple"

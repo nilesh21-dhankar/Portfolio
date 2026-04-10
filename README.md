@@ -78,9 +78,9 @@ This portfolio highlights:
 │   ├── App.jsx
 │   ├── assets
 │   │   ├── assets.js
-│   │   ├── BhupendraPatil_Resume.pdf
+│   │   ├── Nilesh Resume.pdf
 │   │   ├── logo.jpg
-│   │   ├── profile.avif
+│   │   ├── nilesh.jpeg
 │   │   ├── project1.avif
 │   │   ├── project2.avif
 │   │   ├── project3.avif
